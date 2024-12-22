@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650140429297",
+    "project_id": "exceptionhandling-3a6f0",
+    "storage_bucket": "exceptionhandling-3a6f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650140429297:android:ca3de0c16849b185ecb250",
+        "android_client_info": {
+          "package_name": "com.example.exception_handling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXo_D1ZmBZGAkp1eacj81O4_ejKlGD94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
